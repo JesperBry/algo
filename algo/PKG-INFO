@@ -1,10 +1,10 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.2
 Name: algo
 Version: 1.2
-Summary: UNKNOWN
-Home-page: UNKNOWN
-Author: UNKNOWN
+Summary: A package with the most common sorting algorithms. All algorithms are based on the book; Introduction to algorithms by Cormen
+Home-page: https://github.com/JesperBry
+Author: JesperBry
 Author-email: UNKNOWN
 License: UNKNOWN
 Description: UNKNOWN
-Platform: UNKNOWN
+Platform: Python
