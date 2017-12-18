@@ -1,4 +1,4 @@
-# algo
+# algo.py
 
 ![:crocodile:](https://www.emojibase.com/resources/img/emojis/hangouts/1f40a.png) 
 
