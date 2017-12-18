@@ -7,6 +7,13 @@ https://jesperbry.github.io/algo/
 ```
 
 ## Getting Started
+
+### Installing
+
+```
+pip install algo
+```
+
 ```python
 # -*- coding: utf-8 -*-
 
@@ -33,13 +40,6 @@ v = search value (bisect)
 All algorithms are based on the book; Introduction to algorithms by Cormen
 
 [0, 1, 4, 9, 9, 13, 15, 17, 25, 25, 27, 45, 66, 97, 110, 802]
-```
-
-### Installing
-
-
-```
-pip install algo
 ```
 
 ## Built With
