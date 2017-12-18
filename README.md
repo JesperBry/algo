@@ -1,4 +1,4 @@
-# algo ![:crocodile:](https://www.emojibase.com/resources/img/emojis/hangouts/1f40a.png)
+# ![:crocodile:](https://www.emojibase.com/resources/img/emojis/hangouts/1f40a.png) algo
 
 A Python package with the most common sorting algorithms.
 
