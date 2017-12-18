@@ -1,6 +1,9 @@
 
 # :crocodile: algo
 
+A Python package with the most common sorting algorithms.
+All algorithms are based on the book: Introduction to algorithms by Cormen.
+
 ## Web-page
 ```
 https://jesperbry.github.io/algo/
