@@ -1,2 +1,2 @@
 
-# :crocodile: Algo #
+# :crocodile: algo
