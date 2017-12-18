@@ -5,6 +5,7 @@ A Python package with the most common sorting algorithms.
 
 All algorithms are based on the book: Introduction to algorithms by Cormen.
 
+algo is based on the repo: [Algorithms from course TDT4120](https://github.com/JesperBry/-course-TDT4120---Algorithms)
 
 | Algorithm             | WC             | AC/E      | Stable?   |
 | --------------------- |:--------------:| ---------:| ---------:|
