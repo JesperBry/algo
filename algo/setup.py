@@ -8,9 +8,9 @@ setup(
   version = '1.2.0',
   description = 'A package with the most common sorting algorithms. All algorithms are based on the book; Introduction to algorithms by Cormen.',
   author = 'JesperBry',
-  author_email = 'jespebr@stud.ntnu.no',
+  author_email = '#',
   url = 'https://github.com/JesperBry', # use the URL to the github repo
-  download_url = 'https://jesperbry.github.io/', # I'll explain this in a second
+  download_url = 'https://jesperbry.github.io/',
   keywords = ['algorithms', 'Cormen', 'sorting', 'algo', 'Python'], # arbitrary keywords
   classifiers = [],
 )
