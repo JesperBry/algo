@@ -20,6 +20,20 @@ algo.algo.mergeSort(A, 0, len(A)-1)
 print(A)
 ```
 
+Result:
+```
+-- List of function arguments --
+A = list/array
+p = start index (0)
+r = end index (len(A) - 1)
+B = min value of A (min(A))
+radix = Base of the number system or max value of A
+v = search value (bisect)
+
+All algorithms are based on the book; Introduction to algorithms by Cormen
+
+[0, 1, 4, 9, 9, 13, 15, 17, 25, 25, 27, 45, 66, 97, 110, 802]
+```
 
 ### Installing
 
