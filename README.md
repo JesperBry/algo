@@ -30,7 +30,7 @@ algo is based on the repo: [Algorithms from course TDT4120](https://github.com/J
 
 ## Web-page
 ```
-[https://jesperbry.github.io/algo/](https://jesperbry.github.io/algo/)
+https://jesperbry.github.io/algo/
 ```
 
 ## Getting Started
