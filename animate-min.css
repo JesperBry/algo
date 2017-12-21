@@ -1,1 +1,5 @@
+/* Animate.css by  Daniel Eden (https://github.com/daneden) 
+   https://github.com/daneden/animate.css
+   Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+*/
 @charset "UTF-8";.animated{animation-duration:1s;animation-fill-mode:both;animation-delay:1.2s}.animated.infinite{animation-iteration-count:infinite}.animated.hinge{animation-duration:2s}.animated.flipOutX,.animated.flipOutY,.animated.bounceIn,.animated.bounceOut{animation-duration:.75s}@keyframes fadeInDown{from{opacity:0;transform:translate3d(0,-100%,0)}to{opacity:1;transform:none}}.fadeInDown{animation-name:fadeInDown}@keyframes fadeInUp{from{opacity:0;transform:translate3d(0,100%,0)}to{opacity:1;transform:none}}.fadeInUp{animation-name:fadeInUp}
