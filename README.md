@@ -75,3 +75,4 @@ All algorithms are based on the book; Introduction to algorithms by Cormen
 * [Python 3.5.2](https://www.python.org/)
 
 ## License
+[LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
