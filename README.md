@@ -1,4 +1,8 @@
-# algo.py
+<p align="center"> 
+  <img src="https://github.com/JesperBry/algo/blob/master/icon/Logo.png" width="400" height="150">
+</p>
+
+#
 
 ![:crocodile:](https://www.emojibase.com/resources/img/emojis/hangouts/1f40a.png) 
 
