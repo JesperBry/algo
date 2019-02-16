@@ -43,18 +43,18 @@ https://jesperbry.github.io/algo/
 pip install algo
 ```
 
-### Testing
+### Get started
 
 ```python
 # -*- coding: utf-8 -*-
 
-import algo.algo
+import algo.algo as algo
 
-algo.algo.help()
+algo.help()
 
 A = [27, 4, 15, 9, 110, 0, 13, 25, 1, 17, 802, 66, 25, 45, 97, 9]
 
-algo.algo.mergeSort(A, 0, len(A)-1)
+algo.mergeSort(A, 0, len(A)-1)
 print(A)
 ```
 
@@ -71,6 +71,11 @@ v = search value (bisect)
 All algorithms are based on the book; Introduction to algorithms by Cormen
 
 [0, 1, 4, 9, 9, 13, 15, 17, 25, 25, 27, 45, 66, 97, 110, 802]
+```
+
+```python
+# List all methods:
+help(algo) or dir(algo)
 ```
 
 ## Built With
